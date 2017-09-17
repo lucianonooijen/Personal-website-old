@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $('#fullpage').fullpage({
-    sectionsColor: ['darkred', 'darkblue', 'darkgreen', 'black', 'darkgray', 'darkred', 'darkblue'],
+    sectionsColor: ['black', 'black', 'black', 'black', 'black', 'black', 'black'],
     anchors: ['intro', 'over', 'mijn-skills', 'mijn-ervaring', 'mijn-opleiding', 'mijn-projecten', 'contacteer-me '],
     menu: '#menu',
     scrollingSpeed: 800,

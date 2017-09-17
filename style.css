@@ -112,7 +112,7 @@ abbr, acronym {
 
 /* line 33, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: #fff;
 }
 
@@ -137,7 +137,7 @@ p {
 /* line 49, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 .intro p {
   width: 50%;
-  margin: 0 auto;
+  margin: 40px auto;
   font-size: 1.5em;
 }
 
@@ -151,8 +151,43 @@ p {
   font-style: italic;
 }
 
-/* line 61, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 60, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 #fp-nav ul li a span {
   background: white;
+}
+
+/* line 63, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#luciano {
+  background-image: url(img/code.jpg);
+  background-size: cover;
+}
+
+/* line 67, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#over-mij {
+  background-image: url(img/grass.jpg);
+  background-size: cover;
+}
+
+/* line 71, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#skills {
+  background-image: url(img/skills.jpg);
+  background-size: cover;
+}
+
+/* line 74, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+table {
+  margin: auto;
+}
+
+/* line 76, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+table th, table td {
+  padding: 6px 10px;
+  text-align: left;
+  font-size: 22px;
+}
+
+/* line 80, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+.geeky-notes {
+  font-size: 18px !important;
 }
 /*# sourceMappingURL=style.css.map */

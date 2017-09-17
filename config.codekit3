@@ -35,6 +35,36 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/img\/code.jpg": {
+		"ft": 16384,
+		"iS": 728326,
+		"oA": 0,
+		"oAP": "\/img\/code.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/grass.jpg": {
+		"ft": 16384,
+		"iS": 1283907,
+		"oA": 0,
+		"oAP": "\/img\/grass.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/skills.jpg": {
+		"ft": 16384,
+		"iS": 315724,
+		"oA": 0,
+		"oAP": "\/img\/skills.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
