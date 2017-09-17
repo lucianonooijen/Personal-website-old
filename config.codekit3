@@ -15,16 +15,6 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
-	"\/fullpage-settings-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/fullpage-settings-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"\/fullpage-settings.js": {
 		"ft": 64,
 		"ma": 0,
@@ -45,11 +35,52 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/img\/contact.jpg": {
+		"ft": 16384,
+		"iS": 171061,
+		"oA": 0,
+		"oAP": "\/img\/contact.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/ervaring.jpg": {
+		"ft": 16384,
+		"iS": 453089,
+		"oA": 0,
+		"oAP": "\/img\/ervaring.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/img\/grass.jpg": {
 		"ft": 16384,
 		"iS": 1283907,
 		"oA": 0,
 		"oAP": "\/img\/grass.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/icon.png": {
+		"ft": 32768,
+		"iS": 1588,
+		"oA": 0,
+		"oAP": "\/img\/icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/opleiding.jpg": {
+		"ft": 16384,
+		"iS": 180782,
+		"oA": 0,
+		"oAP": "\/img\/opleiding.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

@@ -108,15 +108,18 @@ abbr, acronym {
 #branding {
   float: left;
   clear: right;
+  margin: -5px 10px !important;
+  font-family: 'Tillana', cursive;
+  font-size: 40px;
 }
 
-/* line 33, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 37, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 body {
   font-family: 'Raleway', sans-serif;
   color: #fff;
 }
 
-/* line 37, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 41, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 .wrap {
   margin-left: auto;
   margin-right: auto;
@@ -124,70 +127,105 @@ body {
   position: relative;
 }
 
-/* line 43, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 47, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 h1 {
   font-size: 6em;
 }
 
-/* line 46, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 50, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 p {
   font-size: 2em;
 }
 
-/* line 49, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 53, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+a {
+  text-decoration: none;
+  color: #aaa;
+}
+
+/* line 57, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 .intro p {
   width: 50%;
   margin: 40px auto;
   font-size: 1.5em;
 }
 
-/* line 54, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 62, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 .section {
   text-align: center;
 }
 
-/* line 57, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 65, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 .italic {
   font-style: italic;
 }
 
-/* line 60, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 68, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 #fp-nav ul li a span {
   background: white;
 }
 
-/* line 63, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 72, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 #luciano {
   background-image: url(img/code.jpg);
   background-size: cover;
 }
 
-/* line 67, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 76, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 #over-mij {
   background-image: url(img/grass.jpg);
   background-size: cover;
 }
 
-/* line 71, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 80, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 #skills {
   background-image: url(img/skills.jpg);
   background-size: cover;
 }
 
-/* line 74, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 83, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 table {
   margin: auto;
+  max-width: 65vw;
 }
 
-/* line 76, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 86, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 table th, table td {
   padding: 6px 10px;
   text-align: left;
   font-size: 22px;
 }
 
-/* line 80, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+/* line 90, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+table th:nth-child(1), table td:nth-child(1) {
+  font-weight: normal;
+}
+
+/* line 92, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
 .geeky-notes {
   font-size: 18px !important;
+}
+
+/* line 95, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#ervaring {
+  background-image: url(img/ervaring.jpg);
+  background-size: cover;
+}
+
+/* line 99, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#opleiding {
+  background-image: url(img/opleiding.jpg);
+  background-size: cover;
+}
+
+/* line 103, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#contact {
+  background-image: url(img/contact.jpg);
+  background-size: cover;
+}
+
+/* line 106, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#contact p {
+  line-height: 32px;
 }
 /*# sourceMappingURL=style.css.map */
