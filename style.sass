@@ -1,0 +1,62 @@
+@import "sass/0reset"
+#menu
+  position: fixed
+  top: 0
+  right: 0
+  height: 60px
+  z-index: 70
+  width: 100%
+  padding: 0
+  margin: 0
+  background-color: rgba(0,0,0,0.3)
+  text-align: right
+
+  li
+    display: inline-block
+    margin: 10px
+    color: #fff
+    a
+      text-decoration: none
+      color: #fff
+      padding: 9px 18px
+      display: block
+    &.active a
+      padding: 9px 18px
+      display: block
+      color: #fff
+    &:hover a
+      color: #aaa
+#branding
+  float: left
+  clear: right
+
+body
+  font-family: 'Roboto', sans-serif
+  color: #fff
+
+.wrap
+  margin-left: auto
+  margin-right: auto
+  width: 960px
+  position: relative
+
+h1
+  font-size: 6em
+
+p
+  font-size: 2em
+
+.intro p
+  width: 50%
+  margin: 0 auto
+  font-size: 1.5em
+
+.section
+  text-align: center
+
+.italic
+  font-style: italic
+
+// fullpage stuff
+#fp-nav ul li a span
+  background: white

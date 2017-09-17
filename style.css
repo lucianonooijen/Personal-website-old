@@ -1,0 +1,158 @@
+/* Reset CSS
+ * --------------------------------------- */
+/* line 4, Users/lucianonooijen/Documents/Git/Personal-site/sass/_0reset.sass */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+  padding: 0;
+  margin: 0;
+}
+
+/* line 8, Users/lucianonooijen/Documents/Git/Personal-site/sass/_0reset.sass */
+a {
+  text-decoration: none;
+}
+
+/* line 11, Users/lucianonooijen/Documents/Git/Personal-site/sass/_0reset.sass */
+table {
+  border-spacing: 0;
+}
+
+/* line 14, Users/lucianonooijen/Documents/Git/Personal-site/sass/_0reset.sass */
+fieldset, img {
+  border: 0;
+}
+
+/* line 17, Users/lucianonooijen/Documents/Git/Personal-site/sass/_0reset.sass */
+address, caption, cite, code, dfn, em, strong, th, var {
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* line 21, Users/lucianonooijen/Documents/Git/Personal-site/sass/_0reset.sass */
+strong {
+  font-weight: bold;
+}
+
+/* line 24, Users/lucianonooijen/Documents/Git/Personal-site/sass/_0reset.sass */
+ol, ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 29, Users/lucianonooijen/Documents/Git/Personal-site/sass/_0reset.sass */
+caption, th {
+  text-align: left;
+}
+
+/* line 32, Users/lucianonooijen/Documents/Git/Personal-site/sass/_0reset.sass */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+/* line 40, Users/lucianonooijen/Documents/Git/Personal-site/sass/_0reset.sass */
+q:before, q:after {
+  content: '';
+}
+
+/* line 43, Users/lucianonooijen/Documents/Git/Personal-site/sass/_0reset.sass */
+abbr, acronym {
+  border: 0;
+}
+
+/* line 2, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 60px;
+  z-index: 70;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  text-align: right;
+}
+
+/* line 14, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#menu li {
+  display: inline-block;
+  margin: 10px;
+  color: #fff;
+}
+
+/* line 18, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#menu li a {
+  text-decoration: none;
+  color: #fff;
+  padding: 9px 18px;
+  display: block;
+}
+
+/* line 23, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#menu li.active a {
+  padding: 9px 18px;
+  display: block;
+  color: #fff;
+}
+
+/* line 27, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#menu li:hover a {
+  color: #aaa;
+}
+
+/* line 29, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#branding {
+  float: left;
+  clear: right;
+}
+
+/* line 33, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+}
+
+/* line 37, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+.wrap {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+  position: relative;
+}
+
+/* line 43, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+h1 {
+  font-size: 6em;
+}
+
+/* line 46, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+p {
+  font-size: 2em;
+}
+
+/* line 49, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+.intro p {
+  width: 50%;
+  margin: 0 auto;
+  font-size: 1.5em;
+}
+
+/* line 54, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+.section {
+  text-align: center;
+}
+
+/* line 57, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+.italic {
+  font-style: italic;
+}
+
+/* line 61, Users/lucianonooijen/Documents/Git/Personal-site/style.sass */
+#fp-nav ul li a span {
+  background: white;
+}
+/*# sourceMappingURL=style.css.map */

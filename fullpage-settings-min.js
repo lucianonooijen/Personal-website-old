@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#fullpage").fullpage({sectionsColor:["darkred","darkblue","darkgreen","black","darkgray","darkred","darkblue"],anchors:["luciano","over","skills","ervaring","opleiding","projecten","contact"],menu:"#menu",scrollingSpeed:800})});
