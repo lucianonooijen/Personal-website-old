@@ -23,13 +23,15 @@ Luciano Nooijen
 ## Frameworks
 * WordPress (6 jaar) ++++
 * Angular 5 (1 jaar) +++
+* ReactJS (half jaar) ++
 * jQuery (3 jaar) +++
-* NodeJS (2 jaar) ++
+* NodeJS (2 jaar) +++
 
 ## Tools en software
-* Gulp ++++
 * Git(hub) +++
+* Gulp ++++
 * Webpack ++
 * JIRA +++
+* Docker +
 * Adobe CC (alles) ++++
 * Sketch +++
