@@ -26,6 +26,7 @@ Luciano Nooijen
 * ReactJS (half jaar) ++
 * jQuery (3 jaar) +++
 * NodeJS (2 jaar) +++
+* Ionic/Cordova (half jaar) +
 
 ## Tools en software
 * Git(hub) +++
