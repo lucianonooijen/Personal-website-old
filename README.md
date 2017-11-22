@@ -25,6 +25,7 @@ Luciano Nooijen
 * Angular 5 (1 jaar) +++
 * ReactJS (half jaar) ++
 * jQuery (3 jaar) +++
+* TweenMax/GSAP (half jaar) ++
 * NodeJS (2 jaar) +++
 * Ionic/Cordova (half jaar) +
 
