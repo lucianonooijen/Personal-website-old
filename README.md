@@ -18,6 +18,7 @@ Luciano Nooijen
 * JavaScript ES5/ES6 (3 jaar) +++
 * PHP (3 jaar) +++
 * Java/C# (2 jaar) ++
+* Python (1 jaar) ++
 * C/C++ (1 jaar) +
 
 ## Frameworks
@@ -27,6 +28,7 @@ Luciano Nooijen
 * jQuery (3 jaar) +++
 * TweenMax/GSAP (half jaar) ++
 * NodeJS (2 jaar) +++
+* Django (half jaar) ++
 * Ionic/Cordova (half jaar) +
 
 ## Tools en software
