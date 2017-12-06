@@ -37,5 +37,6 @@ Luciano Nooijen
 * Webpack ++
 * JIRA +++
 * Docker +
+* AWS ++
 * Adobe CC (alles) ++++
 * Sketch +++
