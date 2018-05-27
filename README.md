@@ -1,4 +1,4 @@
-# Project
+# Project || warning: old, outdated and unmaintained
 This is the Github repo for my personal website
 
 # License
